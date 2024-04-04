@@ -1,5 +1,5 @@
 {
-	"name": "@rbxts/fetch",
+	"name": "@rbxts/easy-fetch",
 	"version": "2.0.0-ts.0",
 	"main": "dist/init.lua",
 	"keywords": ["http", "fetch", "request", "promise", "HttpService"],
